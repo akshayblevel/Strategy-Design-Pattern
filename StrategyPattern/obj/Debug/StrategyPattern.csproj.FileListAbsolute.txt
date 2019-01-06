@@ -1,0 +1,6 @@
+D:\AKKI_DEV\RND\DP\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+D:\AKKI_DEV\RND\DP\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe
+D:\AKKI_DEV\RND\DP\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.pdb
+D:\AKKI_DEV\RND\DP\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.csproj.CoreCompileInputs.cache
+D:\AKKI_DEV\RND\DP\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.exe
+D:\AKKI_DEV\RND\DP\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.pdb
